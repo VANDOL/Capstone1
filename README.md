@@ -10,7 +10,6 @@
 - 기대 효과
     - 사용자의 알고리즘에 맞춘 음악 추천이 아닌 날씨(온도, 습도, 계절)에 영향을 받아 사용자에게 음악을 추천해줄 수 있다.
 
-![캡스톤1 썸네일.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/cb56070c-3696-462f-b1a8-85cfcee4d677/16afdc87-5ab3-4502-913c-a7c2d2236c5d/%EC%BA%A1%EC%8A%A4%ED%86%A41_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg)
 
 ### 🙋‍♂️ 역할
 
